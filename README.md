@@ -42,4 +42,4 @@ A ser adicionado informações uma vez que as telas estejam prontas, ensinando n
 ### Back-End:
 Djair Maykon  
 [Alexandre Coelho](https://github.com/Alexandre010xC)  
-[Bruno de Lucas](https://github.com/brunodelucasbarbosaa)  
+[Bruno de Lucas](https://github.com/brunodelucasbarbosa)  
