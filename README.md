@@ -18,7 +18,12 @@ Figma é uma plataforma muito utilizada no mundo de design e suas ferramentas e 
 
 ## Como instalar e rodar o Adoção de Pets
 
-A ser adicionado.
+A ser adicionado.  
+
+## Repositórios  
+Para questões de organização, permitir mais fácil colaboração e não haver demasiados conflitos durante MR's, foi decidido dividir a aplicação em repositórios do Front-End e Back-End.  
+### [Front-End](https://github.com/victorpbp/adocao-de-pets-front)  
+### [Back-End](https://github.com/victorpbp/adocao-de-pets-back)  
 
 ## Como usar o Adoção de Pets
 
@@ -30,11 +35,11 @@ A ser adicionado informações uma vez que as telas estejam prontas, ensinando n
 
 ### Front-End:  
 [Victor Peixoto](https://github.com/victorpbp)  
-Lorena Roberta  
-Kennedy Andrade  
-Andrey Evyk  
+[Lorena Roberta](https://github.com/lorenarbt)  
+[Kennedy Andrade](https://github.com/Kennedy-Rocha)  
+[Andrey Evyk](https://github.com/andreyevyk)  
 
 ### Back-End:
 Djair Maykon  
-Alexandre Coelho  
-Bruno de Lucas  
+[Alexandre Coelho](https://github.com/Alexandre010xC)  
+[Bruno de Lucas](https://github.com/brunodelucasbarbosaa)  
