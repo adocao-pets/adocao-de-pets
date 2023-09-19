@@ -20,10 +20,16 @@ Figma é uma plataforma muito utilizada no mundo de design e suas ferramentas e 
 
 A ser adicionado.  
 
+## Tutorial Typescript
+
+Como fundamentação para o trabalho e apoio da linguagem, parte da equipe foi designada para ficar responsável por um tutorial introdutório à linguagem utilizada.  
+Tal tutorial pode ser encontrado dentro do repositório listado na próxima seção.
+
 ## Repositórios  
 Para questões de organização, permitir mais fácil colaboração e não haver demasiados conflitos durante MR's, foi decidido dividir a aplicação em repositórios do Front-End e Back-End.  
 ### [Front-End](https://github.com/victorpbp/adocao-de-pets-front)  
 ### [Back-End](https://github.com/victorpbp/adocao-de-pets-back)  
+### [Tutorial](https://github.com/TiagoGSouza/mata76-tutorial-backend)  
 
 ## Como usar o Adoção de Pets
 
@@ -40,6 +46,11 @@ A ser adicionado informações uma vez que as telas estejam prontas, ensinando n
 [Andrey Evyk](https://github.com/andreyevyk)  
 
 ### Back-End:
-Djair Maykon  
+[Djair Maykon](https://github.com/DjairMaykon)  
 [Alexandre Coelho](https://github.com/Alexandre010xC)  
 [Bruno de Lucas](https://github.com/brunodelucasbarbosa)  
+
+### Tutorial:   
+[Tiago Souza](https://github.com/TiagoGSouza)  
+[Matheus Sandes](https://github.com/MatheusSandes)  
+[Rafael Alves](https://github.com/RafaelAlvesTech)  
