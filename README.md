@@ -37,8 +37,6 @@ A ser adicionado informações uma vez que as telas estejam prontas, ensinando n
 
 ## Membros
 
-(Links a serem adicionados por não possuir a informação de todos os membros do momento que esta atualização está sendo realizada)  
-
 ### Front-End:  
 [Victor Peixoto](https://github.com/victorpbp)  
 [Lorena Roberta](https://github.com/lorenarbt)  
